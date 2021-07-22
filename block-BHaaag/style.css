@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(16, 16, 65);
+    color: whitesmoke;
+    /* font-weight: bold; */
+}
+
+h2 {
+    color: rgb(14, 126, 14);
+}
+a {
+    color: red;
+    padding: 5px;
+}
